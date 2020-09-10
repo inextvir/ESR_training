@@ -12,6 +12,6 @@ This document and the attached repository are intended to provide a guide coveri
 - Overview of useful tool to find viruses in your data (Septembre 18th 2020 at 8H30 CEST)
 - Analysis of metagenome data using galaxy (Septembre 18th 2020 at 10H00 CEST)
 
-
+Use the temporary download link:https://we.tl/t-os9K5bvBMw
 
 All necessary data to run the exercise are [here](https://drive.google.com/drive/folders/12Sm4yrxmfijsH8iCwPCnWAKNO0B1lfv5?usp=sharing). You should decompress the file in the directory that you want to use for the analysis.
