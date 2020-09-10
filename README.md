@@ -14,4 +14,4 @@ This document and the attached repository are intended to provide a guide coveri
 
 
 
-All necessary data to run the exercise are here . You should decompress the file in the directory that you want to use for the analysis.
+All necessary data to run the exercise are [here](https://drive.google.com/drive/folders/12Sm4yrxmfijsH8iCwPCnWAKNO0B1lfv5?usp=sharing). You should decompress the file in the directory that you want to use for the analysis.
