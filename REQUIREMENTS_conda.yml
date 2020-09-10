@@ -1,0 +1,12 @@
+name: Basic_bioinformatic
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  # scientific python
+  - numpy
+  - scipy
+  - matplotlib
+  ## Code edition
+  - notebook
+  - jupyter_contrib_nbextensions
